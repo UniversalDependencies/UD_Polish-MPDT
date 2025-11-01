@@ -20,7 +20,7 @@ In line with the guidelines (which recommend—for a treebank of 20K–110K word
 
 ## Genres / Document Structure
 
-This treebank **does not** separately label genres or domains by the sentence IDs, and the sentences are **not grouped by complete documents**. The corpus sentences have been shuffled randomly at the sentence level (rather than by preserving full documents) to form the splits.
+This treebank **does not** separately label genres or domains by the sentence IDs, and the sentences are **not complete documents**. The corpus sentences have been shuffled randomly at the sentence level to form the splits.
 
 # Acknowledgments
 
