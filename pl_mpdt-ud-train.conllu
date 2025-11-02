@@ -2441,7 +2441,7 @@
 19	moja	mój	DET	adj:sg:nom:f:pos	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det:poss	10:det:poss|12:det:poss|14:det:poss|16:det:poss|18:det:poss	SpaceAfter=No|Translit=moiá
 20	/	/	PUNCT	interp	PunctType=Slsh	24	punct	24:punct	Translit=/
 21-22	toć	_	_	_	_	_	_	_	Translit=toć
-21	to	to	ADJ	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing|Degree=Pos	23	amod	23:amod	Translit=to
+21	to	to	ADJ	subst:sg:acc:n	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	23	amod	23:amod	Translit=to
 22	ć	ć	PART	part	_	24	advmod	24:advmod	Translit=ć
 23	wszytko	wszytko	NOUN	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing	24	obj	24:obj|27:obj	Translit=wszytko
 24	wyznawam	wyznawać	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	6:conj	SpaceAfter=No|Translit=wyznawam
