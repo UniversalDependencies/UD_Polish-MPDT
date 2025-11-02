@@ -21,7 +21,6 @@
 17	odpisujecie	odpisywać	VERB	fin:pl:sec:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	9:ccomp:obj|12:conj	SpaceAfter=No|Translit=odpisujecie
 18	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
 
-
 # sent_id = 50
 # orig_file_sentence = korba1_manual#BotŁęczRel_I#segm_5.105-s
 # text = Ma jeden pagórek/ który z jednego boku wszystek jest siarczysty/ a z drugiego solny.
@@ -43,7 +42,6 @@
 15	drugiego	drugi	ADJ	adjnum:sg:gen:m:pos	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumType=Ord	16	nmod	16:nmod	Translit=drugiego
 16	solny	solny	ADJ	adj:sg:nom:m:pos	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	3:acl:relcl|11:conj	SpaceAfter=No|Translit=solny
 17	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
-
 
 # sent_id = 54
 # orig_file_sentence = korba1_manual#ChmielAteny_IV#segm_16.47-s
@@ -74,7 +72,6 @@
 23	posławszy	posłać	VERB	pant:perf	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	14	conj	7:advcl|14:conj	SpaceAfter=No|Translit=posławszy
 24	.	.	PUNCT	interp	PunctType=Peri	7	punct	7:punct	Translit=.
 
-
 # sent_id = 68
 # orig_file_sentence = korba1_manual#BystrzInfElem#segm_3.231-s
 # text = Gdy jest tęga, wre w chmurze, jak rozpalony kamień w wodzie i grzmot sprawuje.
@@ -96,7 +93,6 @@
 15	grzmot	grzmot	NOUN	subst:sg:acc:m	Case=Acc|Gender=Masc|Number=Sing	16	obj	16:obj	Translit=grzmot
 16	sprawuje	sprawować	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	5:conj	SpaceAfter=No|Translit=zprawuie
 17	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
-
 
 # sent_id = 109
 # orig_file_sentence = korba1_manual#BystrzInfRóżn#segm_1.123-s
@@ -129,7 +125,6 @@
 25	koszcie	koszt	NOUN	subst:sg:loc:m	Case=Loc|Gender=Masc|Number=Sing	22	conj	22:conj|26:obl:arg	Translit=koszcie
 26	schodzi	schodzić	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl:relcl|7:acl:relcl	SpaceAfter=No|Translit=zchodzi
 27	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
-
 
 # sent_id = 113
 # orig_file_sentence = korba1_manual#BystrzInfAstron#segm_4.209-s
@@ -164,7 +159,6 @@
 27	zostają	zostawać	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	12:advcl	SpaceAfter=No|Translit=zostaią
 28	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
 
-
 # sent_id = 116
 # orig_file_sentence = korba1_manual#SyrZiel_s#segm_8.245-s
 # text = Wszelakim niedostatkom i dolegliwościom wnętrznym i zwierzchnym w winie/ abo w wodzie warzone/ a trunkiem używane/ wielki ratunek czyni.
@@ -193,7 +187,6 @@
 22	czyni	czynić	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=czyni
 23	.	.	PUNCT	interp	PunctType=Peri	22	punct	22:punct	Translit=.
 
-
 # sent_id = 126
 # orig_file_sentence = korba1_manual#SolGeom_I_s#segm_8.135-s
 # text = Punkt 3. Wielościenne figury doskonałe, zrysowane w cyrkułach, mają centrum spolne z cyrkułami.
@@ -216,7 +209,6 @@
 16	cyrkułami	cyrkuł	NOUN	subst:pl:inst:m	Case=Ins|Gender=Masc|Number=Plur	14	obl:arg	14:obl:arg	SpaceAfter=No|Translit=cyrkułámi
 17	.	.	PUNCT	interp	PunctType=Peri	12	punct	12:punct	Translit=.
 
-
 # sent_id = 129
 # orig_file_sentence = korba1_manual#BohJProg_I_Wstęp#segm_2.240-s
 # text = Odległość Planet od ziemi dwojaka jest większa, i mniejsza.
@@ -232,7 +224,6 @@
 9	i	i	CCONJ	conj	_	10	cc	10:cc	Translit=y
 10	mniejsza	mały	ADJ	adj:sg:nom:f:com	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	7	conj	6:xcomp:pred|7:conj	SpaceAfter=No|Translit=mnieysza
 11	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
-
 
 # sent_id = 160
 # orig_file_sentence = korba1_manual#AktaPozn_I_1#segm_8.281-s
@@ -273,7 +264,6 @@
 33	kupieli	kupić	VERB	praet:pl:manim1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	29	acl:relcl	29:acl:relcl	SpaceAfter=No|Translit=kupieli
 34	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	Translit=.
 
-
 # sent_id = 161
 # orig_file_sentence = korba1_manual#PiskorKaz_s#segm_3.151-s
 # text = Nad to czemu to Chrystus oddając Janowi Ś. za Matkę Najświętszą Rodzicielkę swoję; nie mówi do niego Janie, ale tylko Uczniu?
@@ -304,7 +294,6 @@
 24	Uczniu	uczeń	NOUN	subst:sg:voc:m	Case=Voc|Gender=Masc|Number=Sing	20	conj	17:iobj|20:conj	SpaceAfter=No|Translit=Uczniu
 25	?	?	PUNCT	interp	PunctType=Qest	17	punct	17:punct	Translit=?
 
-
 # sent_id = 181
 # orig_file_sentence = korba1_manual#GenRevCz_III#segm_1.204-s
 # text = Jeśli was to nie ruszy, co was kiedy ruszyć może?
@@ -321,7 +310,6 @@
 10	ruszyć	ruszyć	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	11	xcomp	11:xcomp	Translit=ruszyć
 11	może	móc	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=może
 12	?	?	PUNCT	interp	PunctType=Qest	11	punct	11:punct	Translit=?
-
 
 # sent_id = 182
 # orig_file_sentence = korba1_manual#SumKoniec#segm_1.71-s
@@ -348,7 +336,6 @@
 19	naszą	nasz	DET	adj:sg:inst:f:pos	Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	20	det:poss	20:det:poss	Translit=naszą
 20	zwierzchnością	zwierzchność	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	3	conj	3:conj	SpaceAfter=No|Translit=zwierzchnością
 21	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
-
 
 # sent_id = 189
 # orig_file_sentence = korba1_manual#InsGór_3#segm_6.32-s
@@ -381,7 +368,6 @@
 25	dostała	dostać	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	16:advcl	SpaceAfter=No|Translit=dostała
 26	.	.	PUNCT	interp	PunctType=Peri	16	punct	16:punct	Translit=.
 
-
 # sent_id = 212
 # orig_file_sentence = korba1_manual#ChmielAteny_II#segm_1.76-s
 # text = W tymże Księstwie Luneburskim dziwna trafiła się awantura blisko rzeki Wisurgis w starym Miasteczku Hamelem.
@@ -404,7 +390,6 @@
 15	Miasteczku	miasteczko	NOUN	subst:sg:loc:n	Case=Loc|Gender=Neut|Number=Sing	7	obl	7:obl	Translit=Miasteczku
 16	Hamelem	Hamelem	PROPN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	15	appos	15:appos	SpaceAfter=No|Translit=Hamelem
 17	.	.	PUNCT	interp	PunctType=Peri	7	punct	7:punct	Translit=.
-
 
 # sent_id = 221
 # orig_file_sentence = korba1_manual#KołTron#segm_1.275-s
@@ -430,7 +415,6 @@
 18	tysięcy	tysiąc	NOUN	subst:pl:gen:m	Case=Gen|Gender=Masc|Number=Plur	16	nsubj	16:nsubj	SpaceAfter=No|Translit=tysięcy
 19	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
 
-
 # sent_id = 239
 # orig_file_sentence = korba1_manual#InwChełm#segm_9.197-s
 # text = Stodoły i szopy mają wystawić, czemu jeżeli by zadosyć nie uczynili, pod karą za domostwo fl.
@@ -455,7 +439,6 @@
 18	fl	floren	ADV	brev:pun	Abbr=Yes	15	dep	15:dep	SpaceAfter=No|Translit=fl
 19	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
 
-
 # sent_id = 244
 # orig_file_sentence = korba1_manual#BystrzInfAstron#segm_2.13-s
 # text = Wymierzać czasy, i części roku różnemi ewentami i atmosfery konstytucją dystyngwować.
@@ -474,7 +457,6 @@
 12	dystyngwować	dystyngwować	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	1	conj	1:conj	SpaceAfter=No|Translit=dystyngwowáć
 13	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 308
 # orig_file_sentence = korba1_manual#BystrzInfCosm#segm_3.128-s
 # text = Atoli wprawdzie mówić się może iż tu jest, gdzie jest.
@@ -491,7 +473,6 @@
 10	gdzie	gdzie	ADV	adv	PronType=Rel	11	advmod	11:advmod	Translit=gdzie
 11	jest	być	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	7:acl:relcl	SpaceAfter=No|Translit=iest
 12	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
-
 
 # sent_id = 352
 # orig_file_sentence = korba1_manual#ZbigAdw_s#segm_2.30-s
@@ -528,7 +509,6 @@
 29	zabili	zabić	VERB	praet:pl:manim1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	23	conj	14:conj|23:conj	SpaceAfter=No|Translit=zábili
 30	.	.	PUNCT	interp	PunctType=Peri	14	punct	14:punct	Translit=.
 
-
 # sent_id = 360
 # orig_file_sentence = korba1_manual#DorHip_I#segm_7.216-s
 # text = O drugim teraźniuczko zmianka była/ jako na świat wydanemu płodowi żywności dodawać.
@@ -547,7 +527,6 @@
 12	żywności	żywność	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	13	obj	13:obj	Translit=żywnośći
 13	dodawać	dodawać	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	7:xcomp	SpaceAfter=No|Translit=dodáwáć
 14	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
-
 
 # sent_id = 367
 # orig_file_sentence = korba1_manual#UmKamGęb#segm_1.178-s
@@ -568,7 +547,6 @@
 13	roboty	robota	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	14	obl:arg	14:obl:arg	Translit=roboty
 14	zwykłego	zwykły	ADJ	adj:sg:gen:m:pos	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	conj	7:amod|8:conj	SpaceAfter=No|Translit=zwykłego
 15	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
-
 
 # sent_id = 370
 # orig_file_sentence = korba1_manual#InwKal_II#segm_10.274-s
@@ -596,7 +574,6 @@
 20	,	,	PUNCT	interp	PunctType=Comm	21	punct	21:punct	Translit=,
 21	siekierę	siekiera	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	5	conj	4:iobj|5:conj	SpaceAfter=No|Translit=siekierę
 22	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
-
 
 # sent_id = 379
 # orig_file_sentence = korba1_manual#SumKoniec#segm_1.210-s
@@ -640,7 +617,6 @@
 35	zaginie	zaginąć	VERB	fin:sg:ter:perf	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	3:conj	SpaceAfter=No|Translit=zaginie
 36	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
 
-
 # sent_id = 382
 # orig_file_sentence = korba1_manual#ChmielAteny_II#segm_8.147-s
 # text = Na Ś. Jan tylko ten drogi skarb prezentują, za sześciu kluczami, u sześciu Osób deponowanemi zachowany.
@@ -666,7 +642,6 @@
 19	zachowany	zachować	ADJ	ppas:sg:acc:m:perf:aff:pos	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	acl	8:acl	SpaceAfter=No|Translit=záchowany
 20	.	.	PUNCT	interp	PunctType=Peri	9	punct	9:punct	Translit=.
 
-
 # sent_id = 385
 # orig_file_sentence = korba1_manual#InwChełm#segm_6.169-s
 # text = Podwórze ostrogowane, wrót dwoje o 2 drzwiach z fortkami.
@@ -682,7 +657,6 @@
 9	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	10	case	10:case	Case=Ins|Translit=z
 10	fortkami	fortka	NOUN	subst:pl:inst:f	Case=Ins|Gender=Fem|Number=Plur	8	nmod	8:nmod	SpaceAfter=No|Translit=fortkami
 11	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
-
 
 # sent_id = 416
 # orig_file_sentence = korba1_manual#ChmielAteny_II#segm_4.189-s
@@ -710,7 +684,6 @@
 20	niektórych	niektóry	DET	adj:pl:acc:manim1:pos	Animacy=Hum|Case=Acc|Gender=Masc|Number=Plur|PronType=Ind	19	obj	19:obj	SpaceAfter=No|Translit=niektorych
 21	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
 
-
 # sent_id = 516
 # orig_file_sentence = korba1_manual#SyrZiel_s#segm_5.82-s
 # text = Nad przyrodzenie głęboko śpiące zbudza/ i oczerstwia/ kadząc nim a rogiem Jelenim pod nosem.
@@ -733,7 +706,6 @@
 16	nosem	nos	NOUN	subst:sg:inst:m	Case=Ins|Gender=Masc|Number=Sing	10	obl	10:obl	SpaceAfter=No|Translit=nosem
 17	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
 
-
 # sent_id = 523
 # orig_file_sentence = korba1_manual#AnzObjWaś#segm_2.212-s_part-3
 # text = 3. w Wierze ćwiczyć i pobożności: Przykazania Bożego/ i sposobu Spowiedzi.
@@ -753,7 +725,6 @@
 13	sposobu	sposób	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	9	conj	5:conj|9:conj	Translit=sposobu
 14	Spowiedzi	spowiedź	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	13	nmod:arg	13:nmod:arg	SpaceAfter=No|Translit=Spowiedźi
 15	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
-
 
 # sent_id = 526
 # orig_file_sentence = korba1_manual#BotŁęczRel_II#segm_1.212-s
@@ -786,7 +757,6 @@
 24	wino	wino	NOUN	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing	22	obl	22:obl	SpaceAfter=No|Translit=wino
 25	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 545
 # orig_file_sentence = korba1_manual#SyrZiel_s#segm_2.166-s
 # text = Nasienie to jest podługowate czarne/ którego okołek jego jest pełny i obfity.
@@ -805,7 +775,6 @@
 12	i	i	CCONJ	conj	_	13	cc	13:cc	Translit=y
 13	obfity	obfity	ADJ	adj:sg:nom:m:pos	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	1:acl:relcl|11:conj	SpaceAfter=No|Translit=obfity
 14	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
-
 
 # sent_id = 579
 # orig_file_sentence = korba1_manual#ChmielAteny_I#segm_30.101-s
@@ -833,7 +802,6 @@
 20	opisani	opisać	ADJ	ppas:pl:nom:manim1:perf:aff:pos	Animacy=Hum|Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	17	conj	17:conj	SpaceAfter=No|Translit=opisani
 21	.	.	PUNCT	interp	PunctType=Peri	17	punct	17:punct	Translit=.
 
-
 # sent_id = 581
 # orig_file_sentence = korba1_manual#DorHip_I#segm_1.241-s
 # text = Bo iż gorącego przyrodzenia jest/ chłodzących rzeczy bez pochyby potrzebuje.
@@ -850,7 +818,6 @@
 10	pochyby	pochyba	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	11	parataxis:insert	11:parataxis:insert	Translit=pochyby
 11	potrzebuje	potrzebować	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=potrzebuie
 12	.	.	PUNCT	interp	PunctType=Peri	11	punct	11:punct	Translit=.
-
 
 # sent_id = 627
 # orig_file_sentence = korba1_manual#BillTDiar#segm_1.281-s
@@ -872,7 +839,6 @@
 12	na	na	ADP	prep:acc	AdpType=Prep	13	case	13:case	Case=Acc|Translit=na
 13	pasy	pas	NOUN	subst:pl:acc:m	Case=Acc|Gender=Masc|Number=Plur	11	obl:arg	11:obl:arg	SpaceAfter=No|Translit=pasy
 14	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
-
 
 # sent_id = 631
 # orig_file_sentence = korba1_manual#ZwierPrzykład_s#segm_4.134-s
@@ -899,7 +865,6 @@
 19	uczynieniem	uczynić	NOUN	ger:sg:inst:n:perf:aff	Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	20	iobj	20:iobj	Translit=vczynieniem
 20	oczyścił	oczyścić	VERB	praet:sg:m:perf	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=oczyśćił
 21	.	.	PUNCT	interp	PunctType=Peri	20	punct	20:punct	Translit=.
-
 
 # sent_id = 640
 # orig_file_sentence = korba1_manual#JemPam#segm_2.109-s
@@ -932,7 +897,6 @@
 25	ruski	ruski	ADJ	adj:sg:nom:m:pos	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	24:amod	SpaceAfter=No|Translit=ruski
 26	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 653
 # orig_file_sentence = korba1_manual#KoniecSPun#segm_1.210-s
 # text = Działo się w Brodziech dnia jedenastego Mca Marca Roku Tysiąc sześćset czterdziestego szóstego.
@@ -951,7 +915,6 @@
 12	czterdziestego	czterdziesty	ADJ	adjnum:sg:gen:m:pos	Case=Gen|Degree=Pos|ExtPos=ADJ|Gender=Masc|Number=Sing|NumType=Ord	11	flat	11:flat	Translit=czterdziestego
 13	szóstego	szósty	ADJ	adjnum:sg:gen:m:pos	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumType=Ord	12	fixed	12:fixed	SpaceAfter=No|Translit=szostego
 14	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
-
 
 # sent_id = 658
 # orig_file_sentence = korba1_manual#ChmielAteny_IV#segm_26.29-s
@@ -984,7 +947,6 @@
 25	górą	góra	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	26	obl	26:obl	Translit=gorą
 26	leżało	leżeć	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	2:conj|9:conj	SpaceAfter=No|Translit=leżało
 27	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	Translit=.
-
 
 # sent_id = 659
 # orig_file_sentence = korba1_manual#InwKal_II#segm_6.44-s
@@ -1020,7 +982,6 @@
 28	ognisko	ognisko	NOUN	subst:sg:nom:n	Case=Nom|Gender=Neut|Number=Sing	20	conj	10:acl:relcl|20:conj	SpaceAfter=No|Translit=ognisko
 29	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 663
 # orig_file_sentence = korba1_manual#SobJListy_s#segm_3.239-s
 # text = W Warszawie być sobie nie życzę, dla większego daleko niewczasu.
@@ -1037,7 +998,6 @@
 10	daleko	daleko	ADV	adv:pos	Degree=Pos	9	advmod	9:advmod	Translit=daleko
 11	niewczasu	niewczas	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	6	obl	6:obl	SpaceAfter=No|Translit=niewczasu
 12	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
-
 
 # sent_id = 686
 # orig_file_sentence = korba1_manual#DuhMałSpos#segm_3.35-s
@@ -1064,7 +1024,6 @@
 19	oblepiony	oblepić	ADJ	ppas:sg:nom:m:perf:aff:pos	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	11	xcomp	11:xcomp	SpaceAfter=No|Translit=oblepiony
 20	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	Translit=.
 
-
 # sent_id = 702
 # orig_file_sentence = korba1_manual#BG_Rdz#segm_1.127-s
 # text = 29. I miała Rebeka brata imieniem Labana/ i wybieżał Laban przeciwko onemu mężowi aż ku studni.
@@ -1088,7 +1047,6 @@
 17	ku	ku	ADP	prep:dat	AdpType=Prep	18	case	18:case	Case=Dat|Translit=ku
 18	studni	studnia	NOUN	subst:sg:dat:f	Case=Dat|Gender=Fem|Number=Sing	11	obl	11:obl	SpaceAfter=No|Translit=studni
 19	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
-
 
 # sent_id = 709
 # orig_file_sentence = korba1_manual#MijInter_s#segm_2.24-s
@@ -1119,7 +1077,6 @@
 23	Pański	pański	ADJ	adj:sg:acc:m:pos	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	22:amod	SpaceAfter=No|Translit=Pański
 24	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 713
 # orig_file_sentence = korba1_manual#BotŁęczRel_IV#segm_6.165-s
 # text = Grzegorz XIII. fundował tam drugie Seminarium na młódź wtymże Bransbergu.
@@ -1140,7 +1097,6 @@
 13	Bransbergu	Bransberg	PROPN	subst:sg:loc:m	Case=Loc|Gender=Masc|Number=Sing	4	obl	4:obl	SpaceAfter=No|Translit=Bransbergu
 14	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
 
-
 # sent_id = 714
 # orig_file_sentence = korba1_manual#KrzywdaRzecz#segm_1.139-s
 # text = Ach! sprawiedliwy Boże, jakaż to sprawiedliwość!
@@ -1156,7 +1112,6 @@
 8	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	9	cop	9:cop	Translit=to
 9	sprawiedliwość	sprawiedliwość	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No|Translit=sprawiedliwość
 10	!	!	PUNCT	interp	PunctType=Excl	9	punct	9:punct	Translit=!
-
 
 # sent_id = 719
 # orig_file_sentence = korba1_manual#BystrzPol#segm_1.140-s
@@ -1189,7 +1144,6 @@
 25	etc	et_cetera	ADV	brev:pun	Abbr=Yes	24	nmod	24:nmod	SpaceAfter=No|Translit=etc
 26	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
 
-
 # sent_id = 730
 # orig_file_sentence = korba1_manual#InwKal_II#segm_5.208-s_part-1
 # text = Chlewy proste w dyle i drążki 2.
@@ -1203,7 +1157,6 @@
 7	2	2	NUM	dig	NumForm=Digit	1	conj	1:conj	SpaceAfter=No|Translit=2
 8	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 731
 # orig_file_sentence = korba1_manual#InwKal_II#segm_5.208-s_part-2
 # text = Poszycie wszędzie niezgorsze.
@@ -1212,7 +1165,6 @@
 2	wszędzie	wszędzie	ADV	adv	PronType=Tot	3	advmod	3:advmod	Translit=wszędzie
 3	niezgorsze	niezgorszy	ADJ	adj:sg:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No|Translit=niezgorsze
 4	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
-
 
 # sent_id = 735
 # orig_file_sentence = korba1_manual#GdacPan#segm_2.107-s
@@ -1242,7 +1194,6 @@
 22	karaniem	karać	NOUN	ger:sg:inst:n:imperf:aff	Aspect=Imp|Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	23	obl	23:obl	Translit=karániem
 23	zakazowali	zakazować	VERB	praet:pl:manim1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=zákázowáli
 24	.	.	PUNCT	interp	PunctType=Peri	23	punct	23:punct	Translit=.
-
 
 # sent_id = 749
 # orig_file_sentence = korba1_manual#CzyżAlf#segm_2.97-s
@@ -1281,7 +1232,6 @@
 30	warowano	warować	VERB	imps:imperf	Aspect=Imp|Mood=Ind|Person=0|Tense=Past|VerbForm=Fin|Voice=Act	21	advcl:relcl	21:advcl:relcl	SpaceAfter=No|Translit=warowano
 31	.	.	PUNCT	interp	PunctType=Peri	14	punct	14:punct	Translit=.
 
-
 # sent_id = 751
 # orig_file_sentence = korba1_manual#InwChełm#segm_11.97-s
 # text = Ma wydobyty kawałek, na którym dopiero drugie zboże siał; żadnych zasiewków nie zastał, zostawić ich też nie powinien.
@@ -1308,7 +1258,6 @@
 20	nie	nie	PART	part	Polarity=Neg	21	advmod:neg	21:advmod:neg	Translit=nie
 21	powinien	powinien	VERB	winien:sg:m:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	15	conj	1:conj|15:conj	SpaceAfter=No|Translit=powinien
 22	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
-
 
 # sent_id = 752
 # orig_file_sentence = korba1_manual#CzyżAlf#segm_3.100-s
@@ -1337,7 +1286,6 @@
 21	użył	użyć	VERB	praet:sg:m:perf	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	3:acl:relcl	SpaceAfter=No|Translit=vżył
 22	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	Translit=.
 
-
 # sent_id = 764
 # orig_file_sentence = korba1_manual#BystrzInfPolem#segm_2.174-s
 # text = Alboli rujnować i demoliować tych miejsc, które by oblegającym ku wygodzie służyć mogły.
@@ -1359,7 +1307,6 @@
 14	służyć	służyć	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	15:xcomp	Translit=służyć
 15	mogły	móc	VERB	praet:pl:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	7:acl:relcl	SpaceAfter=No|Translit=mogły
 16	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
-
 
 # sent_id = 772
 # orig_file_sentence = korba1_manual#BG_Dz#segm_3.39-s
@@ -1395,7 +1342,6 @@
 28	nas	my	PRON	ppron12:pl:acc:pri	Case=Acc|Number=Plur|Person=1|PronType=Prs	27	obj	27:obj	SpaceAfter=No|Translit=nás
 29	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
 
-
 # sent_id = 781
 # orig_file_sentence = korba1_manual#ŁubŚwiat_s#segm_7.157-s
 # text = Druga Wschodnia ma w sobie Oryksę, Golkondę, Koromandel zamykający w sobie Królestwo Narsyngę albo Wiśniagar, i Księstwa Gingi Tanior i Madura.
@@ -1426,7 +1372,6 @@
 24	Madura	Madura	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	21	conj	20:appos|21:conj	SpaceAfter=No|Translit=Mádura
 25	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
 
-
 # sent_id = 783
 # orig_file_sentence = korba1_manual#JemPam#segm_1.181-s
 # text = I tam te przy obrazie Najświętszej Panny położone, której przyczynie wojsko wszystką calę tej jakiej takiejwiktorii przypisowano skutek.
@@ -1452,7 +1397,6 @@
 19	przypisowano	przypisować	VERB	imps:imperf	Aspect=Imp|Mood=Ind|Person=0|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	7:acl:relcl	Translit=przypisowano
 20	skutek	skutek	NOUN	subst:sg:acc:m	Case=Acc|Gender=Masc|Number=Sing	19	obj	19:obj	SpaceAfter=No|Translit=skutek
 21	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	Translit=.
-
 
 # sent_id = 793
 # orig_file_sentence = korba1_manual#RewerListCzII#segm_1.29-s
@@ -1487,7 +1431,6 @@
 26	etc	et_cetera	ADV	brev:pun	Abbr=Yes	23	conj	2:parataxis:obj|10:conj|23:conj	SpaceAfter=No|Translit=etc
 27	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	Translit=.
 
-
 # sent_id = 794
 # orig_file_sentence = korba1_manual#SyrZiel_s#segm_8.177-s
 # text = Ziele to jest ranom należące Karbunkuły/ to jest wrzody ogniste we dwu dniach goi/ miedzy dwiema kamieńmi utłukszy/ przykładać.
@@ -1515,7 +1458,6 @@
 21	/	/	PUNCT	interp	PunctType=Slsh	20	punct	20:punct	Translit=/
 22	przykładać	przykładać	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	5	conj	5:conj	SpaceAfter=No|Translit=przykłádáć
 23	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
-
 
 # sent_id = 804
 # orig_file_sentence = korba1_manual#NiesKor_II#segm_1.165-s
@@ -1548,7 +1490,6 @@
 25	Jezusowe	jezusowy	ADJ	adj:sg:acc:n:pos	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	24	amod	24:amod	SpaceAfter=No|Translit=Jezusowe
 26	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 816
 # orig_file_sentence = korba1_manual#BystrzInfGeogr#segm_1.242-s
 # text = Tak, że pomiernym targiem rachując zboże, na kilka milionów talerów percepty w jednym roku wykalkulowano.
@@ -1571,7 +1512,6 @@
 16	roku	rok	NOUN	subst:sg:loc:m	Case=Loc|Gender=Masc|Number=Sing	17	obl	17:obl	Translit=roku
 17	wykalkulowano	wykalkulować	VERB	imps:perf	Aspect=Perf|Mood=Ind|Person=0|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	1:ccomp	SpaceAfter=No|Translit=wy- kalkulowano
 18	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
-
 
 # sent_id = 830
 # orig_file_sentence = korba1_manual#KołTron#segm_3.193-s
@@ -1623,7 +1563,6 @@
 44	1621	1621	NUM	dig	NumForm=Digit	43	flat	43:flat	SpaceAfter=No|Translit=1621
 45	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 831
 # orig_file_sentence = korba1_manual#BystrzInfPolem#segm_2.108-s
 # text = Druga reguła jest: aby zmiarkował położenie fortecy, jej fortyfikacją, amunicją, siłę i liczbę prezydionalnego wojska, jego uprowiantowanie: i inne okoliczności.
@@ -1656,7 +1595,6 @@
 26	okoliczności	okoliczność	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	7	conj	6:obj|7:conj	SpaceAfter=No|Translit=okoliczności
 27	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
 
-
 # sent_id = 877
 # orig_file_sentence = korba1_manual#MłodzKaz_s#segm_7.50-s
 # text = z-krajów MałoPolskich, gdzieście są Tęczyńscy?
@@ -1672,7 +1610,6 @@
 8	są	być	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=są
 9	Tęczyńscy	Tęczyński	PROPN	subst:pl:voc:manim1	Animacy=Hum|Case=Voc|Gender=Masc|Number=Plur	8	vocative	8:vocative	SpaceAfter=No|Translit=Tęczyńscy
 10	?	?	PUNCT	interp	PunctType=Qest	8	punct	8:punct	Translit=?
-
 
 # sent_id = 880
 # orig_file_sentence = korba1_manual#OdpRokoszCz_III#segm_1.16-s
@@ -1695,7 +1632,6 @@
 15	króla	król	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	11	obl	11:obl	SpaceAfter=No|Translit=króla
 16	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
 
-
 # sent_id = 902
 # orig_file_sentence = korba1_manual#SzemTorBad#segm_1.196-s
 # text = Nanotował to ksiądz Kasper w Królowie, we zborze, w ścienie.
@@ -1714,7 +1650,6 @@
 12	ścienie	ściana	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	6	conj	1:obl|6:conj	SpaceAfter=No|Translit=ścienie
 13	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 912
 # orig_file_sentence = korba1_manual#SzumInw#segm_1.51-s
 # text = 2 prześcieradła, co ino po jedny stronie koronki przy nich.
@@ -1731,7 +1666,6 @@
 10	przy	przy	ADP	prep:loc	AdpType=Prep	11	case	11:case	Case=Loc|Translit=przy
 11	nich	on	PRON	ppron3:pl:loc:n:ter:neut:praep	Case=Loc|Gender=Neut|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs|Variant=Short	9	orphan	9:orphan	SpaceAfter=No|Translit=nich
 12	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
-
 
 # sent_id = 915
 # orig_file_sentence = korba1_manual#RozSynCz_II_s#segm_3.31-s
@@ -1767,7 +1701,6 @@
 26	miało	mieć	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	ccomp	19:ccomp	SpaceAfter=No|Translit=miało
 27	?	?	PUNCT	interp	PunctType=Qest	20	punct	20:punct	Translit=?
 
-
 # sent_id = 916
 # orig_file_sentence = korba1_manual#PrzewKoś#segm_1.240-s
 # text = Jeszcze nie domurowany/ który na Zakonniki ś. Benedykta/ dla nabożeństwa języka Słowieńskiego był postawiony.
@@ -1790,7 +1723,6 @@
 16	był	być	AUX	praet:sg:m:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	aux:pass	17:aux:pass	Translit=był
 17	postawiony	postawić	ADJ	ppas:sg:nom:m:perf:aff:pos	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	3	acl:relcl	3:acl:relcl	SpaceAfter=No|Translit=postáwiony
 18	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
-
 
 # sent_id = 917
 # orig_file_sentence = korba1_manual#KraDzien#segm_1.223-s
@@ -1838,7 +1770,6 @@
 39	Amen	amen	INTJ	interj	_	1	conj	1:conj	SpaceAfter=No|Translit=Amen
 40	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 928
 # orig_file_sentence = korba1_manual#ChmielAteny_IV#segm_3.77-s
 # text = Niedawno w Anglii narachowano Familii na 2330420. w których Familiach, gdyby było tylko po pięć osób, wyniesie na 12 Milionów Ludzi.
@@ -1868,7 +1799,6 @@
 23	Milionów	milion	NOUN	subst:pl:gen:m	Case=Gen|Gender=Masc|Number=Plur	20	nmod	20:nmod	Translit=Millionow
 24	Ludzi	człowiek	NOUN	subst:pl:gen:m	Case=Gen|Gender=Masc|Number=Plur	22	nmod:arg	22:nmod:arg	SpaceAfter=No|Translit=Ludzi
 25	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
-
 
 # sent_id = 949
 # orig_file_sentence = korba1_manual#BG_Dz#segm_4.282-s
@@ -1903,7 +1833,6 @@
 25	Cesarza	cesarz	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	23	obl	23:obl	SpaceAfter=No|Translit=Cesárzá
 26	.	.	PUNCT	interp	PunctType=Peri	15	punct	15:punct	Translit=.
 
-
 # sent_id = 960
 # orig_file_sentence = korba1_manual#BarMazBad#segm_1.84-s
 # text = Ażci maci zaraz okrzyknie: „A korfantegożeś się tam tak długo bawił?
@@ -1927,7 +1856,6 @@
 15	długo	długo	ADV	adv:pos	Degree=Pos	16	advmod	16:advmod	Translit=długo
 16	bawił	bawić	VERB	praet:sg:m:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis:obj	5:parataxis:obj	SpaceAfter=No|Translit=bawił
 17	?	?	PUNCT	interp	PunctType=Qest	16	punct	16:punct	Translit=?
-
 
 # sent_id = 961
 # orig_file_sentence = korba1_manual#GdacPan#segm_7.58-s
@@ -1964,7 +1892,6 @@
 29	noszą	nosić	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	ccomp:cleft	24:ccomp:cleft	SpaceAfter=No|Translit=noszą
 30	?	?	PUNCT	interp	PunctType=Qest	5	punct	5:punct	Translit=?
 
-
 # sent_id = 975
 # orig_file_sentence = korba1_manual#DrużbDroga#segm_1.161-s
 # text = Miłosiernego od ciebie odpuszczenia przez zasługi Panajezusowe/ przez przyczynę najświętszej Bogarodzice/ i wszytkich Świętych twoich/ od nieprzebranej dobroci i miłości proszę.
@@ -1994,7 +1921,6 @@
 23	miłości	miłość	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	21	conj	21:conj|24:obl:arg	Translit=miłośći
 24	proszę	prosić	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=proszę
 25	.	.	PUNCT	interp	PunctType=Peri	24	punct	24:punct	Translit=.
-
 
 # sent_id = 980
 # orig_file_sentence = korba1_manual#FurUważ#segm_2.273-s
@@ -2043,7 +1969,6 @@
 41	dokończą	dokończyć	VERB	fin:pl:ter:perf	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	31	conj	1:acl:relcl|31:conj	SpaceAfter=No|Translit=dokończą
 42	.	.	PUNCT	interp	PunctType=Peri	19	punct	19:punct	Translit=.
 
-
 # sent_id = 984
 # orig_file_sentence = korba1_manual#MłodzKaz_s#segm_5.68-s
 # text = A co najdziwniejsza, wlała się też w-to i woda: i naprzód ona jako początek cudów Pańskich, uskarżała się: nastąpił na mnie świat pomieszał w-Kanie Galilejskiej.
@@ -2083,7 +2008,6 @@
 33	Galilejskiej	Galilejski	ADJ	adj:sg:loc:f:pos	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	32	amod:flat	32:amod:flat	SpaceAfter=No|Translit=Gálileyskiy
 34	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
 
-
 # sent_id = 1019
 # orig_file_sentence = korba2_manual#BiretWiad#segm_1.280-s
 # text = ROście na łąkach, polach, miedzach, przy drogach i ścieżkach, kwitnie w Lipcu, i Sierpniu.
@@ -2108,7 +2032,6 @@
 18	i	i	CCONJ	conj	_	19	cc	19:cc	Translit=y
 19	Sierpniu	sierpień	NOUN	subst:sg:loc:m	Case=Loc|Gender=Masc|Number=Sing	16	conj	14:obl|16:conj	SpaceAfter=No|Translit=Sierpniu
 20	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
-
 
 # sent_id = 1057
 # orig_file_sentence = korba2_manual#PaterKal#segm_1.153-s
@@ -2140,7 +2063,6 @@
 24	może	móc	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	10:conj	SpaceAfter=No|Translit=może
 25	.	.	PUNCT	interp	PunctType=Peri	10	punct	10:punct	Translit=.
 
-
 # sent_id = 1058
 # orig_file_sentence = korba2_manual#GazNarWil_3#segm_1.81-s
 # text = Kończy żądając, aby przeciw oskarżonym dowody złożone były.
@@ -2156,7 +2078,6 @@
 9	były	być	AUX	praet:pl:m:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	aux:pass	8:aux:pass	SpaceAfter=No|Translit=były
 10	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 1067
 # orig_file_sentence = korba2_manual#ContBykSuł#segm_1.57-s
 # text = Żydówko niegodna i obrzydła! twoje to są sztuki!
@@ -2171,7 +2092,6 @@
 8	są	być	AUX	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	9:aux	Translit=są
 9	sztuki	sztuka	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	0	root	0:root	SpaceAfter=No|Translit=sztuki
 10	!	!	PUNCT	interp	PunctType=Excl	9	punct	9:punct	Translit=!
-
 
 # sent_id = 1070
 # orig_file_sentence = korba2_manual#WiadCudz_1705_28II#segm_1.223-s
@@ -2199,7 +2119,6 @@
 20	zachorował	zachorować	VERB	praet:sg:m:perf	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	ccomp	12:ccomp	SpaceAfter=No|Translit=záchorował
 21	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
 
-
 # sent_id = 1082
 # orig_file_sentence = korba2_manual#RobWAKost#segm_1.351-s
 # text = Wyda cię ten Wieloryb ukrytego i rytyrowanego na czas Nowicjusza, światu na publikę i podziwienie.
@@ -2221,7 +2140,6 @@
 15	i	i	CCONJ	conj	_	16	cc	16:cc	Translit=y
 16	podziwienie	podziwić	NOUN	ger:sg:acc:n:perf:aff	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	14	conj	1:obl|14:conj	SpaceAfter=No|Translit=podźiwienie
 17	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
-
 
 # sent_id = 1083
 # orig_file_sentence = korba2_manual#GazetaWarsz_1774_30III#segm_1.170-s
@@ -2260,7 +2178,6 @@
 31	wszelakie	wszelaki	ADJ	adj:pl:nom:m:pos	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	32	amod	32:amod	Translit=wszelakie
 32	pojedynki	pojedynek	NOUN	subst:pl:nom:m	Case=Nom|Gender=Masc|Number=Plur	29	nsubj:pass	29:nsubj:pass	SpaceAfter=No|Translit=poiedynki
 33	.	.	PUNCT	interp	PunctType=Peri	23	punct	23:punct	Translit=.
-
 
 # sent_id = 1086
 # orig_file_sentence = korba2_manual#BenReg#segm_1.168-s
@@ -2304,7 +2221,6 @@
 36	czyńcie	czynić	VERB	impt:pl:sec:imperf	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	30	conj	23:parataxis:obj|30:conj	SpaceAfter=No|Translit=czynćie
 37	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
 
-
 # sent_id = 1089
 # orig_file_sentence = korba2_manual#KerList#segm_1.82-s
 # text = Nic nie przystoi bardziej Kościołowi Bożemu, tej niepokalanej Chrystusa oblubienicy, jako żeby ci, którzy winnicę Pańską uprawiają, wszyscy jednakowo mówili, jednakowo myśleli i jednakowe mieli zwyczaje.
@@ -2342,7 +2258,6 @@
 31	zwyczaje	zwyczaj	NOUN	subst:pl:acc:m	Case=Acc|Gender=Masc|Number=Plur	30	iobj	30:iobj	SpaceAfter=No|Translit=zwyczaje
 32	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
 
-
 # sent_id = 1124
 # orig_file_sentence = korba2_manual#ChierKurenPrześlad#segm_1.93-s
 # text = Jak! ja się bez was zostanę! nie, Rodzicielu mój! umrzeć chcę z tobą; ach!
@@ -2367,7 +2282,6 @@
 18	;	;	PUNCT	interp	PunctType=Semi	19	punct	19:punct	Translit=;
 19	ach	ach	INTJ	interj	_	7	conj	7:conj	SpaceAfter=No|Translit=ach
 20	!	!	PUNCT	interp	PunctType=Excl	7	punct	7:punct	Translit=!
-
 
 # sent_id = 1127
 # orig_file_sentence = korba2_manual#MaimSchiz#segm_1.136-s
@@ -2419,7 +2333,6 @@
 44	zgładzić	zgładzić	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	37	xcomp	37:xcomp	SpaceAfter=No|Translit=zgłádzić
 45	.	.	PUNCT	interp	PunctType=Peri	7	punct	7:punct	Translit=.
 
-
 # sent_id = 1151
 # orig_file_sentence = korba2_manual#GdacGrzech#segm_1.100-s
 # text = Gdzież mi teraz Uczciwość przeciw Urzędowi Kaznodziejskiemu/ który sam Bóg postanowił/ najdziesz?
@@ -2442,7 +2355,6 @@
 15	najdziesz	naleźć	VERB	fin:sg:sec:perf	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=naydźiesz
 16	?	?	PUNCT	interp	PunctType=Qest	15	punct	15:punct	Translit=?
 
-
 # sent_id = 1159
 # orig_file_sentence = korba2_manual#AugustUniw#segm_1.214-s
 # text = z Ziemie Bielskiej Wacława Jeruzelskiego Chorążego Bielskiego, Aleksandra Gąsowskiego Stolnika Bielskiego.
@@ -2460,7 +2372,6 @@
 11	Stolnika	stolnik	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	9	appos	9:appos	Translit=Stolniká
 12	Bielskiego	bielski	ADJ	adj:sg:gen:m:pos	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	11:amod	SpaceAfter=No|Translit=Bielskiego
 13	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
-
 
 # sent_id = 1163
 # orig_file_sentence = korba2_manual#OrłowDef#segm_1.172-s
@@ -2485,7 +2396,6 @@
 17	żelazne	żelazny	ADJ	adj:pl:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	16	amod	16:amod	Translit=zelazne
 18	gęste	gęsty	ADJ	adj:pl:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	16	amod	16:amod	SpaceAfter=No|Translit=gęste
 19	.	.	PUNCT	interp	PunctType=Peri	9	punct	9:punct	Translit=.
-
 
 # sent_id = 1174
 # orig_file_sentence = korba2_manual#PasjaHist#segm_1.147-s
@@ -2529,7 +2439,6 @@
 36	niej	on	PRON	ppron3:sg:dat:f:ter:neut:praep	Case=Dat|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs|Variant=Short	34	iobj	34:iobj	SpaceAfter=No|Translit=niey
 37	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
 
-
 # sent_id = 1176
 # orig_file_sentence = korba2_manual#ZniesLich#segm_1.164-s
 # text = Podaj mu rękę, zatwierdzając tę Myśl moją, i doprowadzając do skutku.
@@ -2549,7 +2458,6 @@
 13	skutku	skutek	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	11	obl:arg	11:obl:arg	SpaceAfter=No|Translit=skutku
 14	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 1194
 # orig_file_sentence = korba2_manual#AwanturyArab#segm_1.45-s
 # text = Nadaremnie mię zamyka w tej szklannej szkatule, i chowa na dnie morskim.
@@ -2568,7 +2476,6 @@
 12	dnie	dno	NOUN	subst:sg:loc:n	Case=Loc|Gender=Neut|Number=Sing	10	obl	10:obl	Translit=dnie
 13	morskim	morski	ADJ	adj:sg:loc:n:pos	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	12	amod	12:amod	SpaceAfter=No|Translit=morskim
 14	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
-
 
 # sent_id = 1199
 # orig_file_sentence = korba2_manual#KołłątajUstan#segm_1.90-s
@@ -2598,7 +2505,6 @@
 22	wróżyli	wróżyć	VERB	praet:pl:m:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	SpaceAfter=No|Translit=wrożyli
 23	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 1203
 # orig_file_sentence = korba2_manual#SierWSztuka#segm_1.305-s
 # text = Pan Rameau pretenduje, iż Harmonia jest źrzódłem wielkich w Muzyce piękności, ale to się sprzeciwia i skutkom i rozumowi.
@@ -2625,7 +2531,6 @@
 20	i	i	CCONJ	conj	_	21	cc	21:cc	Translit=i
 21	rozumowi	rozum	NOUN	subst:sg:dat:m	Case=Dat|Gender=Masc|Number=Sing	19	conj	17:iobj|19:conj	SpaceAfter=No|Translit=rozumowi
 22	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
-
 
 # sent_id = 1228
 # orig_file_sentence = korba2_manual#LepDębMag#segm_1.175-s
@@ -2662,7 +2567,6 @@
 29	będą	być	AUX	bedzie:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	28	aux:pass	28:aux:pass	SpaceAfter=No|Translit=będą
 30	.	.	PUNCT	interp	PunctType=Peri	10	punct	10:punct	Translit=.
 
-
 # sent_id = 1251
 # orig_file_sentence = korba2_manual#BoymWiara#segm_1.171-s
 # text = Po przeczytaniu zmyślonego Nestoriańskiego Heretyckiego składu/ od Efeskiego Soboru stanął taki dekret.
@@ -2682,7 +2586,6 @@
 13	dekret	dekret	NOUN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	11:nsubj	SpaceAfter=No|Translit=dekret
 14	.	.	PUNCT	interp	PunctType=Peri	11	punct	11:punct	Translit=.
 
-
 # sent_id = 1257
 # orig_file_sentence = korba2_manual#KonstSejm1642#segm_1.111-s
 # text = z Podlaskiego/ Andrzeja na Międzylesie Wodyńskiego/ Łowczego Podlaskiego.
@@ -2698,7 +2601,6 @@
 9	Łowczego	łowczy	NOUN	subst:sg:acc:manim2	Animacy=Nhum|Case=Acc|Gender=Masc|Number=Sing	4	appos	4:appos	Translit=Lowczego
 10	Podlaskiego	podlaski	ADJ	adj:sg:acc:manim2:pos	Animacy=Nhum|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	9:amod	SpaceAfter=No|Translit=Podláskiego
 11	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
-
 
 # sent_id = 1264
 # orig_file_sentence = korba2_manual#MarmWęgPow#segm_1.21-s
@@ -2726,7 +2628,6 @@
 19	zbytek	zbytek	NOUN	subst:sg:acc:m	Case=Acc|Gender=Masc|Number=Sing	17	conj	15:obj|17:conj	SpaceAfter=No|Translit=zbytek
 20	?	?	PUNCT	interp	PunctType=Qest	1	punct	1:punct	Translit=?
 
-
 # sent_id = 1266
 # orig_file_sentence = korba2_manual#WolsJInstal#segm_1.413-s
 # text = Wprowadzasz nas JW. Fundatorze do tutecznego Nieba ziemskiego, a któż nam w nim gospodarować będzie?
@@ -2749,7 +2650,6 @@
 16	gospodarować	gospodarować	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	1	conj	1:conj	Translit=gospodárowáć
 17	będzie	być	AUX	fut:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	16:aux	SpaceAfter=No|Translit=będźie
 18	?	?	PUNCT	interp	PunctType=Qest	1	punct	1:punct	Translit=?
-
 
 # sent_id = 1268
 # orig_file_sentence = korba2_manual#WybicWzór#segm_1.61-s
@@ -2775,7 +2675,6 @@
 17	nie	nie	PART	part	Polarity=Neg	18	advmod:neg	18:advmod:neg	SpaceAfter=No|Translit=nie
 18	mogło	móc	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	SpaceAfter=No|Translit=mogło
 19	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
-
 
 # sent_id = 1291
 # orig_file_sentence = korba2_manual#ZwycMosk#segm_1.228-s
@@ -2811,7 +2710,6 @@
 28	jednego	jeden	ADJ	adjnum:sg:gen:m:pos	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumType=Ord	26	obl	26:obl	SpaceAfter=No|Translit=iednego
 29	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
 
-
 # sent_id = 1292
 # orig_file_sentence = korba2_manual#FalŻycie#segm_1.244-s
 # text = Piękniej ten buduje, który życia swojego na grobowym sobie kamieniu eryguje figury, bo sobie niebieskich honorów stawia Budynki.
@@ -2837,7 +2735,6 @@
 19	stawia	stawiać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	3:advcl	Translit=stawia
 20	Budynki	budynek	NOUN	subst:pl:acc:m	Case=Acc|Gender=Masc|Number=Plur	19	obj	19:obj	SpaceAfter=No|Translit=Budynki
 21	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
-
 
 # sent_id = 1307
 # orig_file_sentence = korba2_manual#GizAntap#segm_1.39-s
@@ -2882,7 +2779,6 @@
 35	zjednało	zjednać	VERB	praet:sg:n:perf	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	25	parataxis:obj	25:parataxis:obj	SpaceAfter=No|Translit=ziednáło
 36	.	.	PUNCT	interp	PunctType=Peri	12	punct	12:punct	Translit=.
 
-
 # sent_id = 1312
 # orig_file_sentence = korba2_manual#GrymSzuk#segm_1.294-s
 # text = czy się nierozproszyły pociorki, nabożeństwa zwyczajne ku Bogu i świętym jego, czynie szluby zakonne?
@@ -2907,7 +2803,6 @@
 17	szluby	szlub	NOUN	subst:pl:acc:m	Case=Acc|Gender=Masc|Number=Plur	4	conj	4:conj	Translit=szluby
 18	zakonne	zakonny	ADJ	adj:pl:acc:m:pos	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	17	amod	17:amod	SpaceAfter=No|Translit=zakonne
 19	?	?	PUNCT	interp	PunctType=Qest	4	punct	4:punct	Translit=?
-
 
 # sent_id = 1315
 # orig_file_sentence = korba2_manual#SheridPodosPam#segm_1.29-s
@@ -2941,7 +2836,6 @@
 25	był	być	AUX	praet:sg:m:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	26	cop	26:cop	Translit=był
 26	zwyczajny	zwyczajny	ADJ	adj:sg:nom:m:pos	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	acl:relcl	21:acl:relcl	SpaceAfter=No|Translit=zwyczayny
 27	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
-
 
 # sent_id = 1318
 # orig_file_sentence = korba2_manual#LepListy#segm_1.231-s
@@ -2996,7 +2890,6 @@
 45	odbieram	odbierać	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	38	acl:relcl	38:acl:relcl	SpaceAfter=No|Translit=odbieram
 46	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
 
-
 # sent_id = 1320
 # orig_file_sentence = korba2_manual#OstrowTRob#segm_1.148-s
 # text = Roszą go potym najcieniej rozściełając: Ale nie na łąkach, (bo tam, jak mniemają, gnije) lecz na ścierniu: Gdzie potąd leży, pokąd paździory włóknem okryte, z łatwością łamać się i wykruszać nie zaczną...
@@ -3046,7 +2939,6 @@
 43	.	.	PUNCT	interp	PunctType=Peri	42	punct	42:punct	SpaceAfter=No|Translit=.
 44	.	.	PUNCT	interp	PunctType=Peri	43	punct	43:punct	Translit=.
 
-
 # sent_id = 1321
 # orig_file_sentence = korba2_manual#RelPow#segm_1.162-s
 # text = Kunicki opaliwszy Miedzybóż/ a Zamkowi dawszy pokój/ toż i w Barze uczyniwszy poszedł z Kozakami/ do Niemirowa/ gdzie o wielkiej wszytkiego obfitości powiadają/ stamtąd wziąwszy cokolwiek dział ma powrócić do ekspugnacjej Baru.
@@ -3092,7 +2984,6 @@
 38	Baru	Bar	PROPN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	37	nmod:arg	37:nmod:arg	SpaceAfter=No|Translit=Báru
 39	.	.	PUNCT	interp	PunctType=Peri	16	punct	16:punct	Translit=.
 
-
 # sent_id = 1342
 # orig_file_sentence = korba2_manual#SchrHorodKom#segm_1.188-s
 # text = WPanna mogłabyś ze wszystkim coś skleić gdybym tylko ja o czym wiedział...
@@ -3118,7 +3009,6 @@
 17	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	SpaceAfter=No|Translit=.
 18	.	.	PUNCT	interp	PunctType=Peri	17	punct	17:punct	SpaceAfter=No|Translit=.
 19	.	.	PUNCT	interp	PunctType=Peri	18	punct	18:punct	Translit=.
-
 
 # sent_id = 1379
 # orig_file_sentence = korba2_manual#SheridPodosPam#segm_1.63-s
@@ -3156,7 +3046,6 @@
 29	wymówionego	wymówić	ADJ	ppas:sg:acc:manim2:perf:aff:pos	Animacy=Nhum|Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	27	obl	27:obl	SpaceAfter=No|Translit=wymowionego
 30	.	.	PUNCT	interp	PunctType=Peri	10	punct	10:punct	Translit=.
 
-
 # sent_id = 1381
 # orig_file_sentence = korba2_manual#BradKniażKal#segm_1.15-s
 # text = Gdy się pawięta wyklują, zatrzymaj je przez jeden lub dwa dni w domu.
@@ -3177,7 +3066,6 @@
 14	domu	dom	NOUN	subst:sg:loc:m	Case=Loc|Gender=Masc|Number=Sing	6	obl	6:obl	SpaceAfter=No|Translit=domu
 15	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
 
-
 # sent_id = 1398
 # orig_file_sentence = korba2_manual#VoltPrzybKandyd#segm_1.181-s
 # text = podchwycił go filozof; ja mówię że to jest pewna.
@@ -3193,7 +3081,6 @@
 9	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	10:cop	Translit=iest
 10	pewna	pewny	ADJ	adj:sg:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	ccomp	6:ccomp	SpaceAfter=No|Translit=pewna
 11	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
-
 
 # sent_id = 1401
 # orig_file_sentence = korba2_manual#BohuszPrzest#segm_1.273-s
@@ -3229,7 +3116,6 @@
 28	Polskiego	polski	ADJ	adj:sg:gen:m:pos	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	amod	27:amod	SpaceAfter=No|Translit=Polskiego
 29	.	.	PUNCT	interp	PunctType=Peri	19	punct	19:punct	Translit=.
 
-
 # sent_id = 1404
 # orig_file_sentence = korba2_manual#KowalFPust#segm_1.209-s
 # text = Promień od słońca, liście od drzewa, płynące wody od źrzódła, moje szczęście bardziej zawisło od Boga.
@@ -3255,7 +3141,6 @@
 19	Boga	Bóg	PROPN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	17	obl:arg	17:obl:arg	SpaceAfter=No|Translit=Bogá
 20	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 1406
 # orig_file_sentence = korba2_manual#GazWarsz_1702_13VI#segm_1.295-s
 # text = Starostwo Błońskie 3000: zło: i 30. Jałowic.
@@ -3271,7 +3156,6 @@
 9	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	Translit=.
 10	Jałowic	jałowica	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	8	nmod:arg	8:nmod:arg	SpaceAfter=No|Translit=Iałowic
 11	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
-
 
 # sent_id = 1409
 # orig_file_sentence = korba2_manual#HeintzKonc#segm_1.95-s
@@ -3302,7 +3186,6 @@
 22	pokazuje	pokazywać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	11:acl:relcl	SpaceAfter=No|Translit=pokazuje
 23	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 1424
 # orig_file_sentence = korba2_manual#PatrPol#segm_1.32-s
 # text = Przecię człowiek odmieniając rzeczy, lub mędrszym, lub wygodniej co mieć będzie.
@@ -3321,7 +3204,6 @@
 12	mieć	mieć	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	7	conj	7:conj	Translit=mieć
 13	będzie	być	AUX	fut:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	12:aux	SpaceAfter=No|Translit=będzie
 14	.	.	PUNCT	interp	PunctType=Peri	7	punct	7:punct	Translit=.
-
 
 # sent_id = 1435
 # orig_file_sentence = korba2_manual#WitkJSyn#segm_1.295-s
@@ -3368,7 +3250,6 @@
 39	popełniając	popełniać	VERB	pcon:imperf	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	30	acl	30:acl	SpaceAfter=No|Translit=popełniaiąc
 40	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 1439
 # orig_file_sentence = korba2_manual#CourtBuchuOsińNauka#segm_1.122-s
 # text = 3. Jest ciąglejsza, giętsza, i miększa od żelaza.
@@ -3385,7 +3266,6 @@
 10	od	od	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	11	case	11:case	Case=Gen|Translit=od
 11	żelaza	żelazo	NOUN	subst:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing	4	obl:cmpr	4:obl:cmpr|6:obl:cmpr|9:obl:cmpr	SpaceAfter=No|Translit=żelaza
 12	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
-
 
 # sent_id = 1456
 # orig_file_sentence = korba2_manual#ŻabFor#segm_1.257-s
@@ -3410,7 +3290,6 @@
 17	Przeniosły	przenieść	VERB	praet:pl:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	Translit=Przeniosły
 18	się	się	PRON	part	PronType=Prs|Reflex=Yes	17	expl:pv	17:expl:pv	SpaceAfter=No|Translit=sie
 19	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
-
 
 # sent_id = 1465
 # orig_file_sentence = korba2_manual#BrzPWieś#segm_1.117-s
@@ -3448,7 +3327,6 @@
 27	potrzebach	potrzeba	NOUN	subst:pl:loc:f	Case=Loc|Gender=Fem|Number=Plur	28	obl	28:obl	Translit=potrzebach
 28	wspierała	wspierać	VERB	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	22	conj	18:advcl|22:conj	SpaceAfter=No|Translit=wspierała
 29	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
-
 
 # sent_id = 1473
 # orig_file_sentence = korba2_manual#MurczSzczod#segm_1.39-s
@@ -3495,7 +3373,6 @@
 37	piszę	pisać	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	31	conj	1:conj|31:conj	SpaceAfter=No|Translit=piszę
 38	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 1510
 # orig_file_sentence = korba2_manual#ZawieszPrzysmaki#segm_1.231-s
 # text = Wspomnicie na nieszczęsnego Bogacza w Piekle pogrzebionego/ i pytajcie co za złości jego były/ a inszych nienajdziecie/ tylko że ustawicznie używał hojnie/ i chodził strojnie/ a niedbał o chudzinę Łazarza.
@@ -3539,7 +3416,6 @@
 37	Łazarza	Łazarz	PROPN	subst:sg:acc:manim2	Animacy=Nhum|Case=Acc|Gender=Masc|Number=Sing	36	appos	36:appos	SpaceAfter=No|Translit=Lázárzá
 38	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 1511
 # orig_file_sentence = korba2_manual#ŁadSGramGeo_I#segm_1.240-s
 # text = Te zaś części dzielą się tym sposobem: to jest Ziemia na ląd, wyspy, półwyspy, przylądki, międzymorza, i góry.
@@ -3569,7 +3445,6 @@
 23	i	i	CCONJ	conj	_	24	cc	24:cc	Translit=y
 24	góry	góra	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	13	conj	11:nmod|13:conj	SpaceAfter=No|Translit=gory
 25	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
-
 
 # sent_id = 1535
 # orig_file_sentence = korba2_manual#LorKaz#segm_1.121-s
@@ -3617,7 +3492,6 @@
 40	jednają	jednać	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	7:conj	SpaceAfter=No|Translit=iednáią
 41	.	.	PUNCT	interp	PunctType=Peri	7	punct	7:punct	Translit=.
 
-
 # sent_id = 1542
 # orig_file_sentence = korba2_manual#IngrLudw#segm_1.116-s
 # text = Tymczasem w Warszawie Różni PP. Dworzanie JKM. różne praesentowali i okazowali Poczty.
@@ -3637,7 +3511,6 @@
 13	okazowali	okazować	VERB	praet:pl:manim1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	11:conj	Translit=okázowáli
 14	Poczty	poczet	NOUN	subst:pl:acc:m	Case=Acc|Gender=Masc|Number=Plur	11	obj	11:obj|13:obj	SpaceAfter=No|Translit=Poczty
 15	.	.	PUNCT	interp	PunctType=Peri	11	punct	11:punct	Translit=.
-
 
 # sent_id = 1546
 # orig_file_sentence = korba2_manual#MetamOdiam#segm_1.113-s
@@ -3672,7 +3545,6 @@
 27	Wenery	Wenera	PROPN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	20	conj	19:appos|20:conj	SpaceAfter=No|Translit=Wenery
 28	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	Translit=.
 
-
 # sent_id = 1551
 # orig_file_sentence = korba2_manual#WierKFama#segm_1.250-s
 # text = Jednak przestrzegam: zbytnich sumptów, i potrzebom zmyślonym, jako też często kłamliwym narracjom, i listom wierzyć nie trzeba.
@@ -3700,7 +3572,6 @@
 21	trzeba	trzeba	VERB	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	2	parataxis:obj	2:parataxis:obj	SpaceAfter=No|Translit=trzeba
 22	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	Translit=.
 
-
 # sent_id = 1568
 # orig_file_sentence = korba2_manual#SkupWojsk#segm_1.339-s
 # text = Zatym ciało Sardesona Oberstera od Leśla przedtym zabitego wieziono.
@@ -3715,7 +3586,6 @@
 8	zabitego	zabić	ADJ	ppas:sg:gen:m:perf:aff:pos	Aspect=Perf|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	3	acl	3:acl	Translit=zábitego
 9	wieziono	wieźć	VERB	imps:imperf	Aspect=Imp|Mood=Ind|Person=0|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=wieźiono
 10	.	.	PUNCT	interp	PunctType=Peri	9	punct	9:punct	Translit=.
-
 
 # sent_id = 1570
 # orig_file_sentence = korba2_manual#LairReg#segm_1.155-s
@@ -3740,7 +3610,6 @@
 17	granicach	granica	NOUN	subst:pl:loc:f	Case=Loc|Gender=Fem|Number=Plur	15	conj	15:conj|18:obl	Translit=gránicách
 18	zasadziło	zasadzić	VERB	praet:sg:n:perf	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl:relcl	SpaceAfter=No|Translit=zásadźiło
 19	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
-
 
 # sent_id = 1571
 # orig_file_sentence = korba2_manual#TurnPogrzeb#segm_1.33-s
@@ -3780,7 +3649,6 @@
 31	żywot	żywot	NOUN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	26	obl:cmpr	26:obl:cmpr|28:obl:cmpr	SpaceAfter=No|Translit=żywot
 32	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
 
-
 # sent_id = 1635
 # orig_file_sentence = korba2_manual#PapObraz#segm_1.306-s
 # text = Spraw i Defektów ludzkich nigdy nieposądzał/ ani gdy się kto przeciw im uskarżał rad ich słuchał/ i owszem aby takim jako Dobrodziejom swoim łaskę Boską upraszali napominał.
@@ -3817,7 +3685,6 @@
 30	napominał	napominać	VERB	praet:sg:m:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	7:conj	SpaceAfter=No|Translit=nápominał
 31	.	.	PUNCT	interp	PunctType=Peri	7	punct	7:punct	Translit=.
 
-
 # sent_id = 1661
 # orig_file_sentence = korba2_manual#BuffonStaszicEp#segm_1.201-s
 # text = Zgadzanie się obłączystych i wydrożonych węglów oczywistym jest dowodem; że wód bieg robił te wszystkie doliny.
@@ -3840,7 +3707,6 @@
 16	wszystkie	wszystek	DET	adj:pl:acc:f:pos	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	17	det	17:det	Translit=wszystkie
 17	doliny	dolina	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	14	obj	14:obj	SpaceAfter=No|Translit=doliny
 18	.	.	PUNCT	interp	PunctType=Peri	9	punct	9:punct	Translit=.
-
 
 # sent_id = 1663
 # orig_file_sentence = korba2_manual#KatechUcz#segm_1.254-s
@@ -3893,7 +3759,6 @@
 45	sumienia	sumienie	NOUN	subst:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing	42	conj	41:nmod:arg|42:conj	SpaceAfter=No|Translit=sumienia
 46	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
 
-
 # sent_id = 1668
 # orig_file_sentence = korba2_manual#MencAptecz#segm_1.222-s
 # text = Gdyż te Lekarstwa prócz Apteczki zosobna się przedawają, osobliwa też do nich Informacja względem słusznego ich zażywania należy, której każdy oraz z onemi nabyć może.
@@ -3927,7 +3792,6 @@
 27	nabyć	nabyć	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	28	xcomp	28:xcomp	Translit=nábyć
 28	może	móc	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl:relcl	15:acl:relcl	SpaceAfter=No|Translit=może
 29	.	.	PUNCT	interp	PunctType=Peri	20	punct	20:punct	Translit=.
-
 
 # sent_id = 1675
 # orig_file_sentence = korba2_manual#SierWSztuka#segm_1.92-s
@@ -3965,7 +3829,6 @@
 30	czyni	czynić	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl:relcl	23:acl:relcl	SpaceAfter=No|Translit=czyni
 31	.	.	PUNCT	interp	PunctType=Peri	18	punct	18:punct	Translit=.
 
-
 # sent_id = 1683
 # orig_file_sentence = korba2_manual#MuthReg#segm_1.160-s
 # text = Usiłuj się, żebyś umarł światu, żądości twojej, i sobie samemu, a tak w Żywocie Boskim wzrost brać będziesz.
@@ -3996,7 +3859,6 @@
 23	będziesz	być	AUX	fut:sg:sec:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	22	aux	22:aux	SpaceAfter=No|Translit=będźiesz
 24	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 1703
 # orig_file_sentence = korba2_manual#PaterKal#segm_1.263-s
 # text = 7. Pilno doglądać jako orzą i włóczą, żeby Ziarno dobrze ziemią okryte było.
@@ -4017,7 +3879,6 @@
 14	okryte	okryć	ADJ	ppas:sg:nom:n:perf:aff:pos	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	4	advcl	4:advcl	Translit=okryte
 15	było	być	AUX	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	aux:pass	14:aux:pass	SpaceAfter=No|Translit=było
 16	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
-
 
 # sent_id = 1717
 # orig_file_sentence = korba2_manual#MabKamieńUwagi#segm_1.104-s
@@ -4075,7 +3936,6 @@
 48	stanu	stan	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	43	obl	43:obl	SpaceAfter=No|Translit=stanu
 49	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	Translit=.
 
-
 # sent_id = 1726
 # orig_file_sentence = korba2_manual#KołłątajKor#segm_1.61-s
 # text = Umieszczony został przez Jednego z najcnotliwszych Patriotów w Deputacji zasiadających Artykuł wolnego obierania Królów, i zaraz wzięto projekt do decyzji.
@@ -4103,7 +3963,6 @@
 21	decyzji	decyzja	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	18	obl:arg	18:obl:arg	SpaceAfter=No|Translit=decyzyi
 22	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 1734
 # orig_file_sentence = korba2_manual#MoskorzZaw#segm_1.231-s
 # text = By był napisał/ że pochwalili wyznanie wiary w Piśmiech Apostołskich.
@@ -4120,7 +3979,6 @@
 10	Piśmiech	pismo	NOUN	subst:pl:loc:n	Case=Loc|Gender=Neut|Number=Plur	7	nmod	7:nmod	Translit=Pismiech
 11	Apostołskich	apostołski	ADJ	adj:pl:loc:n:pos	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur	10	amod	10:amod	SpaceAfter=No|Translit=Apostolskich
 12	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
-
 
 # sent_id = 1740
 # orig_file_sentence = korba2_manual#LwowPismoUwiad_1784_45#segm_1.40-s
@@ -4160,7 +4018,6 @@
 32	odbierane	odbierane	ADJ	ppas:pl:nom:m:imperf:aff:pos	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	21	conj	13:dep|21:conj	Translit=od bierane
 33	były	być	AUX	praet:pl:m:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	32	aux:pass	32:aux:pass	SpaceAfter=No|Translit=były
 34	.	.	PUNCT	interp	PunctType=Peri	13	punct	13:punct	Translit=.
-
 
 # sent_id = 1746
 # orig_file_sentence = korba2_manual#WybicCzyt#segm_1.66-s
@@ -4209,7 +4066,6 @@
 40	grożące	grozić	ADJ	pact:sg:acc:n:imperf:aff:pos	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Act	35	acl	35:acl	SpaceAfter=No|Translit=grożące
 41	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
 
-
 # sent_id = 1749
 # orig_file_sentence = korba2_manual#BogusWNędza#segm_1.202-s
 # text = Ah Matulu poczekaj) ja cię nie odstąpię do śmierci...
@@ -4227,7 +4083,6 @@
 11	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	SpaceAfter=No|Translit=.
 12	.	.	PUNCT	interp	PunctType=Peri	11	punct	11:punct	SpaceAfter=No|Translit=.
 13	.	.	PUNCT	interp	PunctType=Peri	12	punct	12:punct	Translit=.
-
 
 # sent_id = 1758
 # orig_file_sentence = korba2_manual#KlemMeszListy#segm_1.20-s
@@ -4251,7 +4106,6 @@
 16	ów	ów	DET	adjb:sg:nom:m:pos	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem|Variant=Short	17	det	17:det	Translit=ów
 17	Muratory	Muratory	PROPN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	14:nsubj	SpaceAfter=No|Translit=Muratory
 18	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
-
 
 # sent_id = 1766
 # orig_file_sentence = korba2_manual#LaudaDobrz_1668#segm_1.252-s
@@ -4279,7 +4133,6 @@
 19	śmy	być	AUX	aglt:pl:pri:imperf:nwok	Aspect=Imp|Number=Plur|Person=1|Variant=Short	18	aux:clitic	18:aux:clitic	Translit=śmy
 20	byli	być	AUX	plusq:pl:manim1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	18	aux	18:aux	SpaceAfter=No|Translit=byli
 21	.	.	PUNCT	interp	PunctType=Peri	18	punct	18:punct	Translit=.
-
 
 # sent_id = 1777
 # orig_file_sentence = korba2_manual#SaintZabłŻegl#segm_1.81-s
@@ -4318,7 +4171,6 @@
 31	opanował	opanować	VERB	praet:sg:m:perf	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	conj	18:conj|27:conj	SpaceAfter=No|Translit=opanował
 32	.	.	PUNCT	interp	PunctType=Peri	18	punct	18:punct	Translit=.
 
-
 # sent_id = 1803
 # orig_file_sentence = korba2_manual#BW_Prz#segm_1.216-s
 # text = Człowieka, który potwarza krew dusze, by też do grobu uciekł, nikt nie dzierży.
@@ -4340,7 +4192,6 @@
 15	nie	nie	PART	part	Polarity=Neg	16	advmod:neg	16:advmod:neg	Translit=nie
 16	dzierży	dzierżyć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=dźierży
 17	.	.	PUNCT	interp	PunctType=Peri	16	punct	16:punct	Translit=.
-
 
 # sent_id = 1807
 # orig_file_sentence = korba2_manual#UwiadOpis#segm_1.132-s
@@ -4373,7 +4224,6 @@
 24	do	do	ADP	prep:gen	AdpType=Prep	25	case	25:case	Case=Gen|Translit=do
 25	Chmielnickiego	Chmielnicki	PROPN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	23	obl	23:obl	SpaceAfter=No|Translit=Chmielnickiego
 26	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	Translit=.
-
 
 # sent_id = 1808
 # orig_file_sentence = korba2_manual#SerZapł#segm_1.209-s
@@ -4409,7 +4259,6 @@
 28	Zbawiciela	zbawiciel	NOUN	subst:sg:acc:manim2	Animacy=Nhum|Case=Acc|Gender=Masc|Number=Sing	27	obj	27:obj	SpaceAfter=No|Translit=Zbawiciela
 29	.	.	PUNCT	interp	PunctType=Peri	10	punct	10:punct	Translit=.
 
-
 # sent_id = 1838
 # orig_file_sentence = korba2_manual#PrzełożInteresSang#segm_1.211-s
 # text = Od czasu Dekretu tego, aż do Lustracji Roku 1765. a od Lustracji aż do Roku 1777. to jest do czasu Dekretu ostatniego Asesor.
@@ -4441,7 +4290,6 @@
 25	ostatniego	ostatni	ADJ	adj:sg:gen:m:pos	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	amod	24:amod	Translit=ostatniego
 26	Asesor	asesorski	ADV	brev:pun	Abbr=Yes	2	nmod	2:nmod|14:nmod	SpaceAfter=No|Translit=Assessor
 27	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	Translit=.
-
 
 # sent_id = 1888
 # orig_file_sentence = korba2_manual#KrakRelWen#segm_1.173-s
@@ -4477,7 +4325,6 @@
 28	zostało	zostać	VERB	praet:sg:n:perf	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	1:ccomp|9:conj	SpaceAfter=No|Translit=zostáło
 29	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 1890
 # orig_file_sentence = korba2_manual#WieczorKat#segm_1.126-s
 # text = Pragnę cię Panie JEZU jak najNabożniej przyjąć do serca i duszy mojej.
@@ -4496,7 +4343,6 @@
 12	mojej	mój	DET	adj:sg:gen:f:pos	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det:poss	11:det:poss	SpaceAfter=No|Translit=moiéy
 13	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
-
 # sent_id = 1891
 # orig_file_sentence = korba2_manual#SzembekSKaz#segm_1.292-s
 # text = a jakoż, któż nam przecię odwali ten kamień?
@@ -4513,7 +4359,6 @@
 9	ten	ten	DET	adj:sg:acc:m:pos	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	10	det	10:det	Translit=ten
 10	kamień	kamień	NOUN	subst:sg:acc:m	Case=Acc|Gender=Masc|Number=Sing	8	obj	8:obj	SpaceAfter=No|Translit=kamień
 11	?	?	PUNCT	interp	PunctType=Qest	8	punct	8:punct	Translit=?
-
 
 # sent_id = 1900
 # orig_file_sentence = korba2_manual#ŚniadJanOpis#segm_1.102-s
@@ -4544,7 +4389,6 @@
 23	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	24	case	24:case	Case=Acc|Translit=przez
 24	pryzma	pryzma	NOUN	subst:pl:acc:m	Case=Acc|Gender=Masc|Number=Plur	20	obl	20:obl	SpaceAfter=No|Translit=pryzma
 25	.	.	PUNCT	interp	PunctType=Peri	9	punct	9:punct	Translit=.
-
 
 # sent_id = 1921
 # orig_file_sentence = korba2_manual#WielUstKutrz#segm_1.49-s
@@ -4594,7 +4438,6 @@
 40	surowo	surowo	ADV	adv:pos	Degree=Pos	41	advmod	41:advmod	Translit=surowo
 41	sądzić	sądzić	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	38	xcomp	38:xcomp	SpaceAfter=No|Translit=sądzić
 42	.	.	PUNCT	interp	PunctType=Peri	29	punct	29:punct	Translit=.
-
 
 # sent_id = 1925
 # orig_file_sentence = korba2_manual#ThaerGosp#segm_1.46-s
@@ -4647,7 +4490,6 @@
 45	poobjadawszy	poobjadać	VERB	pant:perf	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	36	conj	31:advcl|36:conj	SpaceAfter=No|Translit=poobiadawszy
 46	.	.	PUNCT	interp	PunctType=Peri	10	punct	10:punct	Translit=.
 
-
 # sent_id = 1943
 # orig_file_sentence = korba2_manual#EksSum#segm_1.131-s
 # text = Okrutnie Bóg karze gniew/ sprawiedliwym tedy gniewem karz w tobie samym to/ co obraża Boga.
@@ -4671,7 +4513,6 @@
 17	Boga	Bóg	PROPN	subst:sg:acc:manim2	Animacy=Nhum|Case=Acc|Gender=Masc|Number=Sing	16	obj	16:obj	SpaceAfter=No|Translit=Boga
 18	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
 
-
 # sent_id = 1996
 # orig_file_sentence = korba2_manual#CzartAKPanna#segm_1.103-s
 # text = Niech i tak będzie dla przyjaźni W. Pana.
@@ -4686,7 +4527,6 @@
 8	.	.	PUNCT	interp	PunctType=Peri	7	punct	7:punct	Translit=.
 9	Pana	pan	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	7	appos	7:appos	SpaceAfter=No|Translit=Pana
 10	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
-
 
 # sent_id = 2004
 # orig_file_sentence = korba2_manual#FrydPardon#segm_1.158-s
@@ -4735,7 +4575,6 @@
 41	będą	być	AUX	bedzie:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	40	aux:pass	40:aux:pass	SpaceAfter=No|Translit=będą
 42	.	.	PUNCT	interp	PunctType=Peri	40	punct	40:punct	Translit=.
 
-
 # sent_id = 2016
 # orig_file_sentence = korba2_manual#DembowJGłos#segm_1.149-s
 # text = – A przecież zawsze im Polska wystarcza: nigdy jej dostatki przebrać nie mogą: nigdy do nędzy bankructwa ostatniego nieprzychodzi!
@@ -4763,5 +4602,3 @@
 21	nie	nie	PART	part	Polarity=Neg	22	advmod:neg	22:advmod:neg	SpaceAfter=No|Translit=nie
 22	przychodzi	przychodzić	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	7:conj|14:conj	SpaceAfter=No|Translit=przychodzi
 23	!	!	PUNCT	interp	PunctType=Excl	7	punct	7:punct	Translit=!
-
-
