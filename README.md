@@ -12,11 +12,11 @@ The syntactic annotations are sourced from the [Middle Polish Dependency Treeban
 
 In line with the guidelines (which recommend—for a treebank of 20K–110K words—to take at least 10K words as test data, ~10% of the remainder as dev data, and the rest as training data) the sentences were randomly shuffled (seed 42) and then assigned to the three splits by token-count quotas:
 
-| Set   | Sentences | Tokens  |
-|-------|-----------|---------|
-| Train | 1 438     | 34 039  |
-| Dev   | 162       | 3 795   |
-| Test  | 418       | 10 003  |
+| Set   | Sentences | Tokens |
+|-------|-----------|--------|
+| Train | 1 433     | 33 520 |
+| Dev   | 162       | 3 748  |
+| Test  | 423       | 10 005 |
 
 ## Genres / Document Structure
 
