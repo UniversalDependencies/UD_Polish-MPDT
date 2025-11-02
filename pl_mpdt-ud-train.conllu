@@ -41058,3 +41058,4 @@
 43	grzywien	grzywna	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	40	iobj	40:iobj	Translit=grzywien
 44	dziesięć	dziesięć	NUM	num:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur|NumForm=Word	43	nummod	43:nummod	SpaceAfter=No|Translit=dziesięć
 45	.	.	PUNCT	interp	PunctType=Peri	38	punct	38:punct	Translit=.
+

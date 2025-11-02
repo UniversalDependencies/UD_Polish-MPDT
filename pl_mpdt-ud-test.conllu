@@ -12258,3 +12258,4 @@
 17	zwano	zwać	VERB	imps:imperf	Aspect=Imp|Mood=Ind|Person=0|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	10:acl:relcl	Translit=zwano
 18	penitencjarzem	penitencjarz	NOUN	subst:sg:inst:m	Case=Ins|Gender=Masc|Number=Sing	17	iobj	17:iobj	SpaceAfter=No|Translit=penitentiarzem
 19	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
+

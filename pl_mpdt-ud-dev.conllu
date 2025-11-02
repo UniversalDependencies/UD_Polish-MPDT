@@ -4602,3 +4602,4 @@
 21	nie	nie	PART	part	Polarity=Neg	22	advmod:neg	22:advmod:neg	SpaceAfter=No|Translit=nie
 22	przychodzi	przychodzić	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	7:conj|14:conj	SpaceAfter=No|Translit=przychodzi
 23	!	!	PUNCT	interp	PunctType=Excl	7	punct	7:punct	Translit=!
+
