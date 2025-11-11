@@ -1,0 +1,76 @@
+Running the following version of UD tools:
+commit 26e6c87a2f518322d15901a351199b6be6569062
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri Nov 7 15:39:58 2025 +0100
+Evaluating the following revision of UD_Polish-MPDT:
+commit f767c45ad0a7d429ae1a8870a39a9832bbb36f46
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 15:22:30 2025 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'pl_mpdt'
+Language code (from CoNLL-U file name) = 'pl'
+Found the following data files: pl_mpdt-ud-dev.conllu, pl_mpdt-ud-test.conllu, pl_mpdt-ud-train.conllu
+Size: counted 47273 of 47273 words (nodes).
+Size: min(0, log((N/1000)**2)) = 7.71187861598246.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 17 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.8.
+Features: 42198 out of 47273 total words have one or more features.
+Features: source of annotation (from README) factor is 0.8.
+Universal relations: 32 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.8.
+Genres: found 4 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang pl --max-err=10 UD_Polish-MPDT/pl_mpdt-ud-dev.conllu
+[Line 1901 Sent 975]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'odpuszczenia odpuszczenia') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2187 Sent 1086]: [L3 Warning obl-should-be-nmod] The parent (node [1] 'Rozkazaniu Roskazániu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3111 Sent 1401]: [L3 Warning obl-should-be-nmod] The parent (node [21] 'Interesowania Interssowania') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3114 Sent 1401]: [L3 Warning obl-should-be-nmod] The parent (node [21] 'Interesowania Interssowania') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3697 Sent 1661]: [L3 Warning obl-should-be-nmod] The parent (node [1] 'Zgadzanie Zgadzanie') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 4004 Sent 1740]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dep'.
+[Line 4100 Sent 1758]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'ślęczeniu slęczeniu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 4447 Sent 1925]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'Zjawiania ziawiania') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+Warnings: 8
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang pl --max-err=10 UD_Polish-MPDT/pl_mpdt-ud-test.conllu
+[Line 25 Sent 11]: [L3 Warning obl-should-be-nmod] The parent (node [19] 'strzeżenie strzeżenie') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1026 Sent 200]: [L3 Warning obl-should-be-nmod] The parent (node [32] 'trianguł tryánguł') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2153 Sent 397]: [L3 Warning obl-should-be-nmod] The parent (node [15] 'słowy słowy') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3877 Sent 770]: [L3 Warning obl-should-be-nmod] The parent (node [7] 'żądanie żądánie') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 6112 Sent 1074]: [L3 Warning obl-should-be-nmod] The parent (node [38] 'usiłowaniu usiłowaniu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 7044 Sent 1259]: [L3 Warning obl-should-be-nmod] The parent (node [10] 'złączenie złączenie') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 7241 Sent 1289]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dep'.
+[Line 7680 Sent 1375]: [L3 Warning obl-should-be-nmod] The parent (node [23] 'następowanie nástępowánie') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9796 Sent 1666]: [L3 Warning fixed-gap] Gaps in fixed expression [9, 12] 'co * * za'
+[Line 9856 Sent 1671]: [L3 Warning obl-should-be-nmod] The parent (node [39] 'przywrócenia przywrocenia') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further errors regarding Warning
+Warnings: 15
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang pl --max-err=10 UD_Polish-MPDT/pl_mpdt-ud-train.conllu
+[Line 4460 Sent 199]: [L3 Warning pron-det-without-prontype] The word 'czym czym' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 4496 Sent 202]: [L3 Warning obl-should-be-nmod] The parent (node [7] 'przygotowania przygotowania') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 6022 Sent 280]: [L3 Warning pron-det-without-prontype] The word 'czym czym' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 6339 Sent 294]: [L3 Warning obl-should-be-nmod] The parent (node [15] 'starania stáránia') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 6573 Sent 309]: [L3 Warning obl-should-be-nmod] The parent (node [5] 'pancerze páncerze') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 7720 Sent 363]: [L3 Warning fixed-gap] Gaps in fixed expression [2, 4] 'skąd * inąd'
+[Line 10299 Sent 489]: [L3 Warning pron-det-without-prontype] The word 'czego czego' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 11160 Sent 525]: [L3 Warning obl-should-be-nmod] The parent (node [2] 'wyszciu wyszćiu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 11907 Sent 565]: [L3 Warning pron-det-without-prontype] The word 'czego czego' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 12375 Sent 588]: [L3 Warning obl-should-be-nmod] The parent (node [2] 'jednego iednego') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further errors regarding Warning
+Warnings: 59
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{genres}=0.222222222222222) = 0.0246913580246914
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.558204388004812) = 0.206742365927708
+(weight=0.0740740740740741) * (score{split}=0.67) = 0.0496296296296296
+(weight=0.111111111111111) * (score{tags}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{udeprels}=0.691891891891892) = 0.0768768768768769
+(TOTAL score=0.646829119347795) * (availability=1) * (validity=1) = 0.646829119347795
+STARS = 3
+UD_Polish-MPDT	0.646829119347795	3
