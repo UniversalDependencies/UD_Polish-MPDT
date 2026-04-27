@@ -130,7 +130,7 @@
     <dep name="acl">476</dep>
     <dep name="acl:relcl">584</dep>
     <dep name="advcl">825</dep>
-    <dep name="advcl:cmpr">21</dep>
+    <dep name="advcl:cmp">21</dep>
     <dep name="advcl:relcl">26</dep>
     <dep name="advmod">1708</dep>
     <dep name="advmod:arg">18</dep>
@@ -176,7 +176,7 @@
     <dep name="obl">2657</dep>
     <dep name="obl:agent">91</dep>
     <dep name="obl:arg">959</dep>
-    <dep name="obl:cmpr">152</dep>
+    <dep name="obl:cmp">152</dep>
     <dep name="orphan">149</dep>
     <dep name="parataxis">1</dep>
     <dep name="parataxis:insert">133</dep>
